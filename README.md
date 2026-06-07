@@ -7,7 +7,7 @@ A clean, modern, and responsive personal portfolio website built to showcase my 
 
 ---
 
-## Tech Stack & Tools
+## Technical Skills
 
 ### Languages
 * HTML & CSS
@@ -23,7 +23,7 @@ A clean, modern, and responsive personal portfolio website built to showcase my 
 
 ---
 
-## Highlighted Projects
+## Projects
 
 * **Fitness Center Management System (C++)** – A desktop-based management application designed to handle member registrations and tracking logic.
 * **Personal Web Portfolio (HTML/CSS)** – This website! A fully responsive single-page portfolio featuring a modern CSS variables-based dark theme.
