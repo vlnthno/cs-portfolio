@@ -10,7 +10,7 @@ A clean, modern, and responsive personal portfolio website built to showcase my 
 ## Technical Skills
 
 ### Languages
-* HTML & CSS
+* HTML5 & CSS3
 * C++
 * Python
 * JavaScript
